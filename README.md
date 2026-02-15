@@ -48,15 +48,14 @@ The app was designed to be lightweight, intuitive, and visually appealing, featu
 
 ## Project Structure
 productivity_manager/
-│
-├─ main.py # Main file
-├─ manager/
-│ ├─ task.py # Task class
-│ ├─ taskmanager.py # TaskManager class
-│ ├─ category.py # Category class
-│ └─ usersettings.py # UserSettings class
-├─ requirements.txt # Dependencies
-└─ README.md # This file
+  main.py # Main file
+  manager/
+     task.py # Task class
+     taskmanager.py # TaskManager class
+     category.py # Category class
+     usersettings.py # UserSettings class
+  requirements.txt # Dependencies
+   README.md # This file
 
 
 ## Notes
