@@ -25,9 +25,14 @@ The app was designed to be lightweight, intuitive, and visually appealing, featu
 
 ## Installation
 
-1. Clone the repository:
-2. Create a virtual environment (recommended):
-3. Install dependencies:
+1. git clone https://github.com/JhullyGabriele/Productivity_Manager.git
+2. code:
+cd Productivity_Manager
+python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate in Windows
+pip install -r requirements.txt
+python main.py
+
 
 ## Usage
 
