@@ -27,11 +27,11 @@ The app was designed to be lightweight, intuitive, and visually appealing, featu
 
 1. git clone https://github.com/JhullyGabriele/Productivity_Manager.git
 2. code:
-cd Productivity_Manager
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate in Windows
-pip install -r requirements.txt
-python main.py
+3. cd Productivity_Manager
+4. python -m venv venv
+5. source venv/bin/activate  # or venv\Scripts\activate in Windows
+6. pip install -r requirements.txt
+7. python main.py
 
 
 ## Usage
