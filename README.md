@@ -46,18 +46,6 @@ The app was designed to be lightweight, intuitive, and visually appealing, featu
 - Buttons: change the color and hover effect using the `fg_color` and `hover_color` parameters in CTkButton.
 - Interface theme: change `ctk.set_appearance_mode("light")` to "dark" for dark mode.
 
-## Project Structure
-productivity_manager/
-  main.py # Main file
-  manager/
-     task.py # Task class
-     taskmanager.py # TaskManager class
-     category.py # Category class
-     usersettings.py # UserSettings class
-  requirements.txt # Dependencies
-   README.md # This file
-
-
 ## Notes
 
 - The project is developed with modularity for easy maintenance and expansion.
