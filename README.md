@@ -53,6 +53,6 @@ The app was designed to be lightweight, intuitive, and visually appealing, featu
 - Suitable for users who want a lightweight and customizable productivity app in Python.
 
 ## Example
-<img width="599" height="460" alt="image" src="https://github.com/user-attachments/assets/ba76e179-1566-46fb-9fd0-b44533b0f111" />
+<img width="595" height="461" alt="Captura de tela 2026-02-15 020800" src="https://github.com/user-attachments/assets/fee37726-7a62-41b9-b2ec-476a577f09a2" />
 
 
