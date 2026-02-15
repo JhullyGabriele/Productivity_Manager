@@ -52,3 +52,7 @@ The app was designed to be lightweight, intuitive, and visually appealing, featu
 - Can be extended to save tasks in JSON files or a database.
 - Suitable for users who want a lightweight and customizable productivity app in Python.
 
+## Exemple
+<img width="599" height="460" alt="image" src="https://github.com/user-attachments/assets/ba76e179-1566-46fb-9fd0-b44533b0f111" />
+
+
